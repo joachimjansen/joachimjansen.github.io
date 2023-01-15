@@ -1,22 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /publications/  
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Data"
+    url: /data/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Media"
+    url: /media/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://joachimjansen.github.io/pdf/CV_JJansen.pdf
