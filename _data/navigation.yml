@@ -6,8 +6,8 @@ main:
   #- title: "Data"
   #  url: /data/    
     
-  - title: "Media"
-    url: /media/
+  #- title: "Media"
+  #  url: /media/
     
   - title: "CV"
     url: https://joachimjansen.github.io/files/CV_JJansen.pdf
