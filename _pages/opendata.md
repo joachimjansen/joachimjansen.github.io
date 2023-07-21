@@ -25,8 +25,6 @@ Parts of this dataset are presented in Jammet et al., [2015](https://doi.org/10.
 
   * Crill, P., Wik, M. & Jansen, J. (2021): Temperatures in subarctic lakes on the Stordalen Mire, Abisko, Northern Sweden. Dataset version 4. Bolin Centre Database. [doi:10.17043/stordalen-lake-temperatures-4](https://doi.org/10.17043/stordalen-lake-temperatures-4)
 
-  * Crill, P., Wik, M. & Jansen, J. (2021): Methane concentrations from surface water on the Stordalen Mire, Abisko, Northern Sweden. Dataset version 1. Bolin Centre Database. [doi:10.17043/stordalen-mire-ch4-surface-concentration-1](https://doi.org/10.17043/stordalen-mire-ch4-surface-concentration-1)
-
   * Jansen, J., Wik, M., Snöälv, J. & Crill, P. (2020): Methane diffusive fluxes from subarctic lakes on the Stordalen Mire, Abisko, Northern Sweden. Dataset version 1. Bolin Centre Database. [doi:10.17043/stordalen-lakes-ch4-diff-1](https://doi.org/10.17043/stordalen-lakes-ch4-diff-1)
 
   * Jansen, J., Wik, M. & Crill, P. (2020): Methane concentrations from subarctic lakes on the Stordalen Mire, Abisko, Northern Sweden. Dataset version 1. Bolin Centre Database. [doi:10.17043/stordalen-lakes-ch4-conc-1](https://doi.org/10.17043/stordalen-lakes-ch4-conc-1)
