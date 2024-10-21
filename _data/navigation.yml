@@ -9,5 +9,5 @@ main:
   #- title: "Media"
   #  url: /media/
     
-  - title: "CV"
-    url: https://joachimjansen.github.io/files/CV_JJansen.pdf
+ # - title: "CV"
+ #   url: https://joachimjansen.github.io/files/CV_JJansen.pdf
