@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joachim Jansen"
 title_separator          : "-"
 name                     : &name "Joachim Jansen"
-description              : &description "Postdoctoral Fellow at Uppsala University and Université du Québec à Montréal"
+description              : &description "Postdoctoral researcher at the University of Helsinki"
 url                      : https://joachimjansen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joachimjansen.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Joachim Jansen"
   avatar           : "profile.jpg"
   bio              : "Freshwater ecology and data science"
-  location         : "Montréal, Canada"
+  location         : "Helsinki, Finland"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "joachim.jansen@ebc.uu.se"
-  researchgate     : "https://scholar.google.com/citations?user=b_OaT5EAAAAJ&hl=nl"
+  googlescholar    : "https://scholar.google.com/citations?user=b_OaT5EAAAAJ&hl=nl"
+  email            : "joachim.jansen@helsinki.fi"
+  researchgate     : "https://www.researchgate.net/profile/Joachim-Jansen"
   uri              :
   bitbucket        :
   codepen          :
